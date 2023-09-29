@@ -1,0 +1,22 @@
+body {
+    background-color: wheat;
+}
+nav {
+    background-color: burlywood;
+    margin-top: 0px;
+    border-radius: 40px;
+}
+li {
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+.A{
+    margin-left: 40px;
+}
+.B {
+    list-style-type: none;
+    overflow: hidden;
+    margin-left: 300px;
+}
